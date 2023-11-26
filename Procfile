@@ -1,2 +1,2 @@
-web: gunicorn stockmarketanalysis:app
+web gunicorn stockmarketanalysis.wsgi:application --log-file -
 
