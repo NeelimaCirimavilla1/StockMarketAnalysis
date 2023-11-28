@@ -1,2 +1,2 @@
-web gunicorn stockmarketanalysis.wsgi:application --log-file -
+web: streamlit run datepy
 
