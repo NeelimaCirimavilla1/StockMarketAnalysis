@@ -26,10 +26,8 @@ loguru==0.6.0
 lxml==4.9.2
 multidict==6.0.4
 nltk==3.8.1
-numpy==1.22.4
 openai==0.27.2
 packaging==23.0
-pandas==2.0.0
 protobuf==4.22.1
 psycopg2==2.9.9
 psycopg2-binary==2.9.9
