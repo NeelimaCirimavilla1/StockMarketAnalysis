@@ -1,2 +1,2 @@
-web: streamlit run datepy
+web: streamlit run date.py
 
