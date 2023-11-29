@@ -1,2 +1,2 @@
-web: streamlit run date.py
+web:sh setup.sh && streamlit run date.py
 
