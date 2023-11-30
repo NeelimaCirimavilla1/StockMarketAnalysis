@@ -28,6 +28,10 @@ st.markdown(
             background-size: cover;
             background-repeat: no-repeat;
         }
+        .st-emotion-cache-fg4pbf{
+        background-image: url("https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.pinimg.com%2F736x%2Fa0%2F31%2F25%2Fa031250d0b127b4ad6788e52c2bbcff5.jpg&tbnid=eJTuE5ooTgpDpM&vet=12ahUKEwj6jf6VlOuCAxWHxckDHas0BQwQMygKegUIARCMAQ..i&imgrefurl=https%3A%2F%2Fin.pinterest.com%2Fpin%2Fpremium-photo--858076535243278200%2F&docid=LI8zYWfA86SKiM&w=736&h=414&q=stock%20market%20pictures%20for%20background&ved=2ahUKEwj6jf6VlOuCAxWHxckDHas0BQwQMygKegUIARCMAQ");
+        background-size: cover;
+        }
     </style>
     """,
     unsafe_allow_html=True
