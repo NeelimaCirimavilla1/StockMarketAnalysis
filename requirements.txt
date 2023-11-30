@@ -83,9 +83,9 @@ SQLAlchemy==2.0.21
 sqlparse==0.4.4
 streamlit==1.27.0
 tenacity==8.2.3
-tensorboard==2.15.0
+tensorboard==2.13.0
 tensorboard-data-server==0.7.1
-tensorflow==2.15.0
+tensorflow==2.13.0
 tensorflow-estimator==2.15.0
 tensorflow-intel==0.0.1
 tensorflow-io-gcs-filesystem==0.31.0
